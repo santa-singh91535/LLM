@@ -13,7 +13,7 @@ User query is Converted to the embeddings and  cosine similarity is used to get 
 Query and the Most relevant chunks are passed to the LLM Model(OpenAI) and LLM further give precise answer to the user as well the sources from where the answer is extracted. 
 
 Here is the Workflow :
-![workflow](images/newsbot.drawio(1).png)
+![workflow](images/workflow_newsbot.png)
 
 
 
