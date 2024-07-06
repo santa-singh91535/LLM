@@ -15,7 +15,7 @@ Query and the Most relevant chunks are passed to the LLM Model(OpenAI) and LLM f
 Here is the Workflow :
 
 
-![workflow](images/workflow_Newsbot.png)
+![workflow](images/workflow.png)
 
 
 
